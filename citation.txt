@@ -1,0 +1,6 @@
+@article{REPO006,
+    author = "Nie, Yuqi and Nguyen, Nam H and Sinthong, Phanwadee and Kalagnanam, Jayant",
+    journal = "arXiv preprint arXiv:2211.14730",
+    title = "{A Time Series is Worth 64 Words: Long-term Forecasting with Transformers}",
+    year = "2022"
+}
